@@ -13,3 +13,5 @@
 9. Creating a NAT Gateway for instances in the private subnet to access the Internet (performing source NAT).
 10. Creating a route table for the Nat Gateway Access which has to be associated with the Instances in the Priavte subnet.
 11. Associate the routing table to the Private Subnet to provide the Nat Gateway address.
+
+![](https://visitor-badge.glitch.me/badge?page_id=24-komal.Terraform-VPC-Infrastructure)
