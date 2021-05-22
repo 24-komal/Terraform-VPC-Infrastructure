@@ -2,7 +2,7 @@
 
 ## List of steps in the Pipeline
 
-###Steps in the Pipeline:
+#### Steps in the Pipeline:
 
 1. Create a Provider for AWS.
 2. Create a VPC (Virtual Private Cloud in AWS).
