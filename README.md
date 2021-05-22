@@ -1,8 +1,6 @@
 # Terraform-VPC-Infrastructure
 
-## List of steps in the Pipeline
-
-#### Steps in the Pipeline:
+## List of steps to perform:
 
 1. Create a Provider for AWS.
 2. Create a VPC (Virtual Private Cloud in AWS).
